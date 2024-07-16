@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Alirie, a full-stack software engineer, student, and writer from Los Angeles. 
 
-<br>
+----------------------------------
 
 <!--
 **AlirieGray/AlirieGray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
