@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 #### :hatching_chick: Current projects
-- [Dragon Age World State Manager app](https://github.com/AlirieGray/da-state-manager) A web app I'm working on in the MERN stack that allows users to create and track custom world states and story branches for Bioware's RPG series Dragon Age.  
+- [Dragon Age World State Manager app](https://github.com/AlirieGray/da-state-manager), a web app I'm working on in the MERN stack that allows users to create and track custom world states and story branches for Bioware's RPG series Dragon Age.  
 - [Conduit of the Miracle](https://github.com/AlirieGray/prologue), a sci-fi/fantasy visual novel I'm writing in the Ren'Py engine that follows the journey of a young woman to carry out her late husband's final wish involving a strange artifact and an ancient ritual.
 
 #### :telescope: Professional objectives
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 ### :computer: Languages & Technologies
 
-<div style="width:'500px'">
- <div style="display:flex;justify-content:space-between;width:'500px';">
+<div>
+ <div>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
