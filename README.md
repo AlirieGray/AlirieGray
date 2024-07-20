@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Alirie, a full-stack software engineer, student, writer from Los Angeles. I'm passionate about video games as a storytelling medium and the potential of technology as a force for good in the world. Also a perpetual project-starter working on being more of a "project-finisher."
+I'm Alirie, a full-stack software engineer, student, and writer from Los Angeles. I'm passionate about video games as a storytelling medium and the potential of technology as a force for good in the world. Also a perpetual project-starter working on being more of a "project-finisher."
 
 ----------------------------------
 
