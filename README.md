@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### :hatching_chick: Current projects
-- [Dragon Age World State Manager app](https://github.com/AlirieGray/da-state-manager), a web app I'm working on in the MERN stack that allows users to create and track custom world states and story branches for Bioware's RPG series Dragon Age.  
+#### :hatching_chick: Current & recent projects
+- [Dragon Age World State Manager app](https://github.com/AlirieGray/da-state-manager), a web app I'm working on in the MERN stack that allows users to create and track custom world states and story branches for Bioware's RPG series Dragon Age.
+- [Girl x Descent: Diamond Sea Chronicles](https://alirie.itch.io/girlxdescent), a run-and-gun magical girl game written with a team in the Unity engine
+- [Meowain the Tuna](https://github.com/AlirieGray/Gawain), a visual novel RPG written with a team for a game jam in the Ren'Py engine and available to [play on itch.io](https://knights-of-viviane.itch.io/meowain-the-tuna)
 - [Conduit of the Miracle](https://twiceasbright.games/), a sci-fi/fantasy visual novel I'm writing in the Ren'Py engine that follows the journey of a young woman to carry out her late husband's final wish involving a strange artifact and an ancient ritual.
 
 #### :telescope: Professional objectives
