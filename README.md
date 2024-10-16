@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 #### :telescope: Professional objectives
 - Finish my bachelor's degree in computer science after taking a several year hiatus
 - Work at a company with a positive social impact
-- Lead a team creating commercial indie video games
+- Lead a team creating indie video games
 
 ### :rose: Personal goals and interests
 - Conversational fluency in Spanish and Arabic
